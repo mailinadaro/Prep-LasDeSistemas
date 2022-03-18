@@ -55,16 +55,7 @@ Para ello primero iremos a la carpeta de nivel superior, escribe en la consola:
 ```
 
 y presiona Enter. Una vez estés en el nivel superior, escribe:
-
-```bash
-  mkdir Henry
-```
-
-y presiona Enter. ¡Felicitaciones, has creado un directorio!
-
-### Crear un Repositorio
-
-Entra a github.com y logueate con tu usuario. Luego en la parte de arriba a la derecha buscá el signo '+' y elegí 'new repository'.
+'+' y elegí 'new repository'.
 
 ![alt](../img/repo-create.png)
 
@@ -158,7 +149,7 @@ La terminal te preguntará tu usuario y contraseña (En el caso de la contraseñ
   Counting objects: 5, done.
   Delta compression using up to 8 threads.
   Compressing objects: 100% (4/4), done.
-  Writing objects: 100% (5/5), 2.97 KiB | 0 bytes/s, done.
+  Writing objects: 100% (5/5), 2.9KiB | 0 bytes/s, done.
   Total 5 (delta 1), reused 0 (delta 0)
   remote: Resolving deltas: 100% (1/1), completed with 1 local object.
   To git@github.com:[your username]/Precourse.git
